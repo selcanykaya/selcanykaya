@@ -12,7 +12,7 @@
 
 ## 📫 Bana Ulaşın
 - 📧 E-posta: selcanykaya13@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/selcanyalçınkaya)
+- 💼 [LinkedIn](https://www.linkedin.com/in/selcanykaya)
 - 📁 [Projelerim](https://github.com/selcanykaya)
 
 
